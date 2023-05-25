@@ -70,8 +70,7 @@ class Game {
         process.exit();
       case "?":
         console.log(this.table);
-        this.getPlayerInput();
-        break;
+        return this.getPlayerInput();
       default:
         return { id: +input, name: this.options[+input - 1] };
     }
