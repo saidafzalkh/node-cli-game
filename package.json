@@ -1,7 +1,10 @@
 {
-  "description": "",
+  "name": "task-3",
+  "main": "game.js",
+  "type": "module",
   "dependencies": {
     "cli-table": "^0.3.11",
+    "colors": "^1.4.0",
     "prompt-sync": "^4.2.0"
   }
 }
