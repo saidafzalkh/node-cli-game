@@ -1,0 +1,7 @@
+{
+  "description": "",
+  "dependencies": {
+    "cli-table": "^0.3.11",
+    "prompt-sync": "^4.2.0"
+  }
+}
